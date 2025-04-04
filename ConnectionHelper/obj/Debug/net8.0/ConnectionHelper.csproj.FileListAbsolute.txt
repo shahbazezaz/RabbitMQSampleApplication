@@ -1,0 +1,12 @@
+D:\sample\rabbitmq\ConnectionHelper\bin\Debug\net8.0\ConnectionHelper.deps.json
+D:\sample\rabbitmq\ConnectionHelper\bin\Debug\net8.0\ConnectionHelper.dll
+D:\sample\rabbitmq\ConnectionHelper\bin\Debug\net8.0\ConnectionHelper.pdb
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.csproj.AssemblyReference.cache
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.AssemblyInfoInputs.cache
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.AssemblyInfo.cs
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.csproj.CoreCompileInputs.cache
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.dll
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\refint\ConnectionHelper.dll
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ConnectionHelper.pdb
+D:\sample\rabbitmq\ConnectionHelper\obj\Debug\net8.0\ref\ConnectionHelper.dll
